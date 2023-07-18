@@ -13,5 +13,3 @@
 - 📫 Reach out to me directly through [Discord](https://discord.com/users/689773955074228256).
 
 [![jfrancai's 42 stats](https://badge42.vercel.app/api/v2/clk722ior000609mtoi4ufmpf/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jfrancai&show_icons=true&theme=dark)](https://github.com/jfrancai/github-readme-stats)
