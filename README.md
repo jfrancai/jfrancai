@@ -5,7 +5,6 @@
 - 🌱 I’m currently building my new portfolio.
 - 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about anything related to code.
-- 📫 Reach out to me directly through [Discord](https://discord.com/users/689773955074228256).
 
 :mailbox: Reach me out!
 
