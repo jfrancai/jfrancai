@@ -5,10 +5,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-@jfrancai_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jfrancai_)](https://twitter.com/jfrancai_) [![Linkedin Badge](https://img.shields.io/badge/-julien-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfrancai/) [![Mail Badge](https://img.shields.io/badge/-julien-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:julienfrancais@outlook.fr)
 
 
-- 🔭 I’m currently working at home as a partime fullstack freelancer and student at 42 School.
+- 🔭 I work at home as a part-time full-stack freelancer and student at 42 School.
 - 🛹 I do love skateboarding in my spare time.
 - 🌱 I’m currently building my new portfolio.
-- 👯 I’m looking to collaborate on any open source projects.
+- 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about anything related to code.
 - 📫 Reach out to me directly through [Discord](https://discord.com/users/689773955074228256).
 
