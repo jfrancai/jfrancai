@@ -9,6 +9,3 @@
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@jfrancai_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jfrancai_)](https://twitter.com/jfrancai_) [![Linkedin Badge](https://img.shields.io/badge/-julien-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfrancai/) [![Mail Badge](https://img.shields.io/badge/-julien-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:julienfrancais@outlook.fr)
-
-## Github Stat
-![jfrancai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfrancai&show_icons=true&theme=tokyonight)
