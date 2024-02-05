@@ -1,6 +1,6 @@
 ### Hi there, I'm [Julien](https://jfrancai.com)! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-- 🔭 I work at home as a part-time full-stack freelancer and student at 42 School.
+- 🔭 I'm a student at 42 School.
 - 🛹 I do love skateboarding in my spare time.
 - 🌱 I’m currently building my new portfolio.
 - 👯 I’m looking to collaborate on any open-source projects.
