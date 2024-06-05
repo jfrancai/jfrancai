@@ -2,9 +2,7 @@
 
 - 🔭 I'm a student at 42 School.
 - 🛹 I do love skateboarding in my spare time.
-- 🌱 I’m currently building my new portfolio.
 - 👯 I’m looking to collaborate on any open-source projects.
-- 💬 Ask me about anything related to code.
 
 :mailbox: Reach me out!
 
